@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dunkfordyce/browserify-add-filename/issues"
   },
-  "homepage": "https://github.com/dunkfordyce/browserify-add-filename"
+  "homepage": "https://github.com/dunkfordyce/browserify-add-filename",
+  "dependencies": {
+    "browserify-transform-tools": "^1.3.3"
+  }
 }
